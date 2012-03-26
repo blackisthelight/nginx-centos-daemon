@@ -1,6 +1,6 @@
 == nginx-centos-daemon
 
-If you're like me, you one time installed RVM/Passenger/passenger-install-nginx-module and realized you couldn't start nginx the *normal* way.  This is designed for CentOS/RHEL flavors and has been tested in CentOS 6.2
+If you're like me, you one time installed RVM/Passenger/passenger-install-nginx-module and realized you couldn't start nginx the <i>normal</i> way.  This is designed for CentOS/RHEL flavors and has been tested in CentOS 6.2
 
 == Installation Instructions
 
