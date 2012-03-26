@@ -5,11 +5,10 @@ If you're like me, you one time installed RVM/Passenger/passenger-install-nginx-
 == Installation Instructions
 
 
-
-    	cd ~/
-	curl https://raw.github.com/blackisthelight/nginx-centos-daemon/master/nginx >> nginx
-	chmod +x nginx
-	sudo cp ./nginx /etc/init.d/nginx
-	nginx (stop|start|restart)
+    cd ~/
+    curl https://raw.github.com/blackisthelight/nginx-centos-daemon/master/nginx >> nginx
+    chmod +x nginx
+    sudo cp ./nginx /etc/init.d/nginx
+    nginx (stop|start|restart)
 
 Enjoy! Email me if you have any questions--andrew@needtagger.com		
